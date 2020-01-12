@@ -23,7 +23,7 @@ Supervisors can:
 
 ## Run
 
-1. Unzip the file
+1. Unzip the file into docker envoirment with nginx, MySql and PHP
 2. Import the SQL dump webprog.sql to MySQL DB
 3. run docker-compose up
 4. Navigate to http://localhost/twitter-final-project/project/
